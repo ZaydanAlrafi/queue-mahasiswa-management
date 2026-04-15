@@ -1,19 +1,3 @@
-📘 Stellar Mahasiswa Smart Contract
-
-Blockchain-Based Student Management using Soroban (Stellar)
-
-📌 Project Description
-
-This project is a decentralized student management system built on the Stellar using the Soroban SDK. The smart contract is written in Rust and allows users to manage student data directly on the blockchain without relying on centralized databases.
-
-All data is stored in the contract’s instance storage, ensuring data persistence, transparency, and security. Each student record is uniquely identified and can only be accessed or modified through the functions defined in the smart contract.
-
-🎯 Project Objectives
-Store student data in a decentralized system
-Ensure data integrity and immutability
-Provide simple CRUD functionality (Create, Read, Delete)
-Eliminate dependency on centralized storage
-
 📂 Project Structure (Original)
 contracts/
 └── notes/
